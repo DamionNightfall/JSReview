@@ -1,4 +1,5 @@
 // 📓 Console Logging Practice
+//Ahmed Almashaur and yusif Albaloshi
 
 // 1. Simple Logging: Log the message "Hello, Bootcamp!" to the console.
 console.log('Hello, Bootcamp!');
